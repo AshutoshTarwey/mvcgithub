@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMvcGitHubDemo", "WebMvcGitHubDemo\WebMvcGitHubDemo.csproj", "{EF3A0B5F-86A7-433A-9849-2BFCFF2126B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF3A0B5F-86A7-433A-9849-2BFCFF2126B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3A0B5F-86A7-433A-9849-2BFCFF2126B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3A0B5F-86A7-433A-9849-2BFCFF2126B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3A0B5F-86A7-433A-9849-2BFCFF2126B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7ABA70C-E053-40E4-BD2F-613195E47926}
+	EndGlobalSection
+EndGlobal
